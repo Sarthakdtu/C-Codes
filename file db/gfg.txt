@@ -1,0 +1,12 @@
+
+C++ interview questions on virtual function and abstract class
+1. What is a pure virtual function?
+
+Ans. A pure virtual function (or abstract function) in C++ is a virtual function for which we don't have implementation, we only declare it. A pure virtual function is declared by assigning 0 in declaration. See the following example./close
+
+C++ interview questions on virtual function and abstract class
+1. What is a pure virtual function?
+
+Ans. A pure virtual function (or abstract function) in C++ is a virtual function for which we don't have implementation, we only declare it. A pure virtual function is declared by assigning 0 in declaration. See the following example.
+
+I am appending it
